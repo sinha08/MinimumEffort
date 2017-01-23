@@ -1,0 +1,4 @@
+Important links
+
+No shit for getting started with git
+http://rogerdudler.github.io/git-guide/
