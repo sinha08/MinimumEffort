@@ -5,3 +5,6 @@ http://rogerdudler.github.io/git-guide/
 
 Followed this for struture
 https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
+
+Going through below link for basic site in node and express
+https://shapeshed.com/creating-a-basic-site-with-node-and-express/
