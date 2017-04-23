@@ -8,3 +8,6 @@ https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
 
 Going through below link for basic site in node and express
 https://shapeshed.com/creating-a-basic-site-with-node-and-express/
+
+We will follow this tutorial
+https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
