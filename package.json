@@ -1,0 +1,26 @@
+{
+  "name": "mini-effort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinha08/MinimumEffort.git"
+  },
+  "author": "Ankur, Dhaval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinha08/MinimumEffort/issues"
+  },
+  "homepage": "https://github.com/sinha08/MinimumEffort#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
