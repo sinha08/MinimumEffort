@@ -11,3 +11,6 @@ https://shapeshed.com/creating-a-basic-site-with-node-and-express/
 
 We will follow this tutorial
 https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
+
+Real world node project look alike
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
