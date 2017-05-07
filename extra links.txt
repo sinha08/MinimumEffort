@@ -17,3 +17,13 @@ http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
 
 Laying down the framework
 http://theholmesoffice.com/getting-ready-for-scalability-creating-an-mvc-framework-for-our-node-js-page/
+
+Better development with node
+http://scottksmith.com/blog/2014/06/25/8-npm-tips-for-better-node-development/
+
+used this for controller examples
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
+
+> explanation of express generated web app
+> mongo db usage tutorials
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
