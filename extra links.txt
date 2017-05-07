@@ -27,3 +27,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
 > explanation of express generated web app
 > mongo db usage tutorials
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
+> deployed web project like this
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
